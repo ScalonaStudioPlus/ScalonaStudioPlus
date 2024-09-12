@@ -43,12 +43,13 @@
 
 <br>
 
-**Desarrollo Front-End**:
+**Desarrollo Back-End**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  
-
-
+<br>
+     <img src="https://camo.githubusercontent.com/ec9b2bbaccf6915a29050ce24c10cd9b481b0c41b0bf5194add3e69f49a9be3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
+     <img src="https://camo.githubusercontent.com/f905d223aaf7d318a2a34ab7a88bb5fadcc066e15b23be27e45c8cd06d4e8a74/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d7973716c2d6c6f676f2e706e67">
+     <img src="https://camo.githubusercontent.com/42948efd9c91b4887bc707abc52460c3a6dfdc311ea175457e0dba077827c76a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d3030303f266c6f676f3d53514c697465">
+ 
 <br>
 
 - **Cloud Hosting**:
@@ -61,17 +62,17 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465">
+    
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+     <img src="https://camo.githubusercontent.com/df50da671ce60e6e460ea9629c10e51a40e6ea36b59a5d0bad80df18bceac14f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465">
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    <img src="https://camo.githubusercontent.com/c1027934602fee21b41c5b7104aa0b5c53b1325bf05a7ef5a660ded003018945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3035313232413f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70">
+   <img src="https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465">
 
 </p>
 
@@ -118,9 +119,7 @@
 
 <br>
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+
 </a>
 </li>
 
@@ -143,7 +142,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
 
 </div>
 <br>
@@ -155,23 +154,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
 
 
 
-<!--
-**ScalonaStudioPlus/ScalonaStudioPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
