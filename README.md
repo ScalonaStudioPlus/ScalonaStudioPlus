@@ -105,7 +105,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
@@ -126,7 +126,7 @@
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="scalonaplustudio@gmail.com.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
